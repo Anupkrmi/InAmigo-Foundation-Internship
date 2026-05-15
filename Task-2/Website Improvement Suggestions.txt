@@ -1,0 +1,50 @@
+Website Improvement Suggestions
+Hero Section
+Replace generic banner with organization-specific impactful image
+Add clear tagline explaining mission
+Add CTA buttons: Donate Now / Volunteer / Our Projects
+Header / Navigation
+Increase logo size for better visibility
+Make navbar sticky
+Simplify top contact bar
+Add prominent Donate button
+Our Causes Section
+Remove excessive empty space
+Display actual cause cards with icons/images
+Add short descriptions + “Learn More”
+Statistics Section
+Fix wording (e.g., “Our Volunteer” → “Active Volunteers”)
+Add animated counters
+Mention data update date for credibility
+Volunteers Section
+Fill empty/blank section
+Add volunteer profiles or testimonials
+Events Section
+Use consistent image sizes
+Shorten descriptions
+Add “View All Events” option
+Footer
+Improve spacing and alignment
+Fix inconsistent text formatting (“pages” → “Pages”)
+Add organization mission summary
+Better contact layout
+Trust & Credibility
+Add NGO registration details
+Add 80G/12A certificates (if applicable)
+Include annual reports / audited financials
+Show partner logos / testimonials
+Contact Section
+Add contact form
+Add Google Maps location
+Add WhatsApp contact
+Mobile Optimization
+Improve responsiveness for mobile devices
+Ensure readable text and proper button sizing
+Performance
+Compress images
+Improve loading speed
+Optimize code/assets
+SEO & Accessibility
+Better meta tags and search optimization
+Add image alt text
+Improve contrast and accessibility support
